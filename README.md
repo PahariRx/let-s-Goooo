@@ -19,10 +19,9 @@ Welcome to my GitHub! I'm Roshan pahari a passionate developer who loves buildin
 
 
 ## 📫 Let's Connect! 
-- 📸 [Instagram](https://instagram.com/ign_roxu)  
-- 📘 [Facebook]:https://www.facebook.com/profile.php?id=100030024489854  
-- 💼 [LinkedIn]:https://www.linkedin.com/in/roshanpahari24/  
-- 📧 [Email]:pahariroshan55@gmail.com 
- 
+- [Instagram](https://instagram.com/ign_roxu)  
+- https://www.facebook.com/profile.php?id=100030024489854
+- https://github.com/PahariRx
+- pahariroshan55@gmail.com
 
 Feel free to explore my repositories, contribute, or reach out! 🚀  
