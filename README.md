@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Roshan pahari a passionate developer who loves buildin
 
 ## 🛠 Skills  
 - 🖥 **Microprocessor**: Assembly Language, Low-Level Hardware Control  
-- 🤖 **Deep Learning (DL)**: Neural Networks, Logic Gate Implementation  
+- 🤖 **Digital Logic (DL)**: Neural Networks, Logic Gate Implementation  
 - 🎓 **BCA College Projects**: Various academic programming skills  
 - 🏗 **C Programming**: Data Structures, Algorithms, System Programming  
 - ☕ **Java Development**: Object-Oriented Programming (OOP), Desktop Applications  
